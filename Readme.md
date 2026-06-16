@@ -1,22 +1,28 @@
-# Реализация классических алгоритмов машинного обучения вручную
+# Classic ML Algorithms from Scratch
 
-## Линейные модели:
-- [x] линейная регрессия;
-- [ ] логистическая регрессия;
-- [ ] опорные вектора;
-- [ ] полиномиальная регрессия;
+> Implementing machine learning algorithms by hand — no sklearn under the hood, just numpy.
 
-## Логические алгоритмы:
-- [ ] дерево решений;
-- [ ] случайный лес;
-- [ ] бустинг;
+---
 
-## Понижение размерности:
-- [x] PCA;
+## Linear Models
+- [x] Linear Regression
+- [ ] Logistic Regression
+- [ ] Support Vector Machine
+- [ ] Polynomial Regression
 
-## Кластеризация:
-- [ ] KMeans;
+## Tree-Based Models
+- [x] Decision Tree
+- [ ] Random Forest
+- [ ] Gradient Boosting
+
+## Dimensionality Reduction
+- [x] PCA
+- [ ] TSNE
+- [ ] UMAP
+
+## Clustering
+- [ ] KMeans
 - [ ] DBSCAN
 
-## Эмбеддинговые модели:
+## Embedding Models
 - [ ] Word2Vec
