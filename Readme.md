@@ -11,7 +11,8 @@
 - [ ] Polynomial Regression
 
 ## Tree-Based Models
-- [x] Decision Tree
+- [x] Decision Tree Classifier
+- [ ] Decision Tree Regressor
 - [ ] Random Forest
 - [ ] Gradient Boosting
 
