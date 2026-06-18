@@ -27,3 +27,12 @@
 
 ## Embedding Models
 - [ ] Word2Vec
+
+# Tests
+
+Example:
+
+```
+python -m tests.<path_to_test_file>
+# python -m tests.tree_models.tree_regression_test
+```
